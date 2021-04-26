@@ -1,0 +1,6 @@
+
+Player: farouq
+Amount Deposited: 100
+Guess: 3 is not equal to Computer's guess: 8
+New Amount: 51
+Final Amount: 51
